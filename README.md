@@ -10,6 +10,9 @@ The task was to carry these spheres to a designated goal post.
 The assignment involved the use of Gazebo for simulation, Xacro for URDF generation, and ROS for robot control.
 To ensure version control, the robot's codebase was regularly committed to the Git repository (provided above) throughout the development process.
 
+A video has been submitted as well to show how the robot has successfully carried the large sphere to the goal. 
+It also shows how the arm structure can work with the medium and smaller sphere as well but a little hard to handle compared to the large sphere.
+
 How to run the program:
 1.	roslaunch my_robot_urdf world.launch 
 this spawns the robot onto the provided assessment_world
